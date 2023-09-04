@@ -1,0 +1,27 @@
+const dataStats = [
+  "gamesStarted",
+  "minutesPlayed",
+  "fieldGoals",
+  "fieldGoalAttempts",
+  "fieldGoalPercentage",
+  "threePointFieldGoals",
+  "threePointFieldGoalAttempts",
+  "threePointFieldGoalPercentage",
+  "twoPointFieldGoals",
+  "twoPointFieldGoalAttempts",
+  "twoPointFieldGoalPercentage",
+  "effectiveFieldGoalPercentage",
+  "freeThrows",
+  "freeThrowAttempts",
+  "freeThrowPercentage",
+  "offensiveRebounds",
+  "defensiveRebounds",
+  "totalRebounds",
+  "assists",
+  "steals",
+  "blocks",
+  "turnovers",
+  "fouls",
+  "points"
+]
+
